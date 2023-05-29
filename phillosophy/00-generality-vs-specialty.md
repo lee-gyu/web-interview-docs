@@ -43,3 +43,4 @@
 ## links
 
 - <https://wormwlrm.github.io/2023/03/26/Generality-vs-Specialty.html>
+- <https://navywood.tistory.com/42>
