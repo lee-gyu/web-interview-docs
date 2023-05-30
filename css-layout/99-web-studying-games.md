@@ -20,4 +20,5 @@ CSS를 학습하기 좋은 게임 링크 모음 (가끔식 복습하면 좋다.)
 ## Regexp
 
 - <https://regexone.com/>
+- <https://regexone.com/problem/matching_decimal_numbers>
 - <https://regexcrossword.com/>
