@@ -25,15 +25,15 @@ CORS 표준은 새로운 HTTP header들을 추가하는 것으로 동작한다.\
 서버는 `credentials`를 요청에 포함시킬 수 있다.\
 이는 Cookie와 같은 인증 정보를 의미한다.
 
-## CORS-safelisted request header
+## cors-safelisted request header
 
 아래 사항들을 만족하는 헤더는 CORS-safelisted request header라고 한다.\
 이것은 브라우저에서 `preflight` 요청을 보내지 않는 요청들이다.
 
-## CORS 안전한 응답 헤더
+## cors-safelisted response header
 
 아래 사항들을 만족하는 헤더는 CORS-safelisted response header라고 한다.\
-
+이러한 응답은 브라우저에서 `cors`에 대한 정책 검사 없이 요청을 읽을 수 있다.
 
 ## links
 
