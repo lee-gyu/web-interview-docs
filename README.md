@@ -4,6 +4,8 @@
 github copilot과 함께 작성 중\
 추후 작성된 MD를 SSG 웹 문서로 변환하여 search-engine과 함께 웹 사이트로 배포 예정
 
+일단은 medium에 글을 같이 투고하며 진행
+
 - 브라우저 동작
 - CSS 레이아웃
 - 접근성
