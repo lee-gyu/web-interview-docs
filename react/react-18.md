@@ -38,7 +38,7 @@ setTimeout(() => {
 setTimeout(() => {
   setCount(c => c + 1);
   setFlag(f => !f);
-  // 리액트는 한번의 렌더로 일괄 처리한다.
+  // Automatic Batching 기능을 통해 한번의 렌더로 일괄 처리한다.
 }, 1000);
 ```
 
